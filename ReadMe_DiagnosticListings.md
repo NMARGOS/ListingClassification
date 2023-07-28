@@ -24,13 +24,13 @@ There is enviroment_listings.yml in the repo with all the necessary dependencies
 
 A) Explore the data set to view distribution characteristics such as the count of NA values for selected columns
 <div align="center">
-  <img alt="NA value heatmap" src="NA_values_heatmap.jpg" width="700" height="300"><br>
+  <img alt="NA value heatmap" src="NA_values_heatmap.jpg" width="700" height="500"><br>
   <sup>Sample display of image in HTML format <sup>
 </div>
       <br></br>
     
 <div align="center">
-  <img alt="NA value sum" src="NA_values_sum.jpg" width="700" height="300"><br>
+  <img alt="NA value sum" src="NA_values_sum.jpg" width="700" height="500"><br>
   <sup>Sample display of image in HTML format <sup>
 </div>  
       <br></br>
@@ -41,7 +41,7 @@ C) Explore the distribution of Normalized Weight Score and identify the mean rat
 D) Create a decision boundary based on the normalized weight score top quartile, and view the size of each label
     <br></br>
 <div align="center">
-  <img alt="NA value sum" src="Top_Percentile_Count.jpg" width="700" height="300"><br>
+  <img alt="NA value sum" src="Top_Percentile_Count.jpg" width="700" height="500"><br>
   <sup>Sample display of image in HTML format <sup>
 </div>   
       <br></br>
